@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyTvShowApp</string>
+    <string name="todo">TODO</string>
+    <string name="read_more">read_more</string>
+    <string name="read_less">Read Less</string>
+    <string name="u2022">u2022</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watchlist">watchlist</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_tv_show">Search TV Show</string>
+</resources>
